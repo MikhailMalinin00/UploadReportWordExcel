@@ -33,7 +33,5 @@
                 </charts:Chart.Legends>
             </charts:Chart>
         </WindowsFormsHost>
-
-
     </Grid>
 </Window>
